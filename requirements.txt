@@ -6,4 +6,6 @@ matplotlib
 seaborn
 torch
 pypdf
+faiss-cpu
+
 
